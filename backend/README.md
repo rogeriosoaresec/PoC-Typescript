@@ -1,9 +1,9 @@
 # Backend part
 
-It must install the dependencies in the firt time:
+## It must install the dependencies in the firt time:
 
-yarn install
+`yarn install`
 
-to run:
+## to run:
 
-yarn dev:server
+`yarn dev:server`
